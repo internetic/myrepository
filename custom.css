@@ -1,0 +1,17 @@
+/* 自定义选中文字颜色 */
+::selection {
+    background: #3399FF !important;
+    color: #FFFFFF !important;
+}
+/* 自定义文字阴影特效 */
+* {
+    text-shadow: 0.01em 0.01em 0.02em #999999 !important;
+}
+/* 扩展 */
+/* 已被访问链接的颜色 */
+a:visited {
+    color: #FF0000 !important;
+}
+/* 扩展 */
+/* 鼠标悬停链接的颜色 */
+/*a:hover{color: #0000FF  !important;}/* 扩展 */
